@@ -3,11 +3,11 @@
 
 # 需要 iOS 26
 快捷指令 我活着  
-https://www.icloud.com/shortcuts/1f5f1d15e06a46e2b00ba9c8f78dd1c0
+https://www.icloud.com/shortcuts/0b09aabc1ce84f68914a5f9eb0b5f98d
 
 快捷指令 TA活着吗  
-https://www.icloud.com/shortcuts/1f5bf6366abb4bc38be95c832fde5a7c
+https://www.icloud.com/shortcuts/0b09aabc1ce84f68914a5f9eb0b5f98d
 
 快捷指令 我活着&TA活着吗  
-https://www.icloud.com/shortcuts/9be23201d0c044e88da06f864893c6c2
+https://www.icloud.com/shortcuts/f35b16c0841b48639775ca62fc70ddb9
 
